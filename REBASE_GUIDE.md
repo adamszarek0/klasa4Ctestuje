@@ -81,7 +81,7 @@ git commit --amend --no-edit
 - Created: `hytgfd.txt` (empty file)
 
 ### Commit d4b2b1c "list"
-- Created: `Nowy dokument tekstowy.txt` with content "1. Lista obecności"
+- Created: `Nowy dokument tekstowy.txt` (New text document.txt) with content "1. Lista obecności" (1. Attendance list)
 - Deleted: `asd.txt`
 - Modified: `test.txt` (removed 1 line)
 
@@ -93,5 +93,5 @@ Add list functionality and test file
 
 - Created new text document for attendance list
 - Added test file for validation
-- Cleaned up unused files (asd.txt, test.txt)
+- Modified test.txt and removed asd.txt
 ```
